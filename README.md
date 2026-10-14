@@ -10,8 +10,8 @@ Projeto para cliente real, do briefing à publicação.
 > Daniel Rizzo é psicólogo clínico (CRP 05/73924) no Rio de Janeiro e atende
 > por psicoterapia online, com TCC e Terapias Contextuais. O site está no ar em
 > [psidanielrizzo.com.br](https://psidanielrizzo.com.br/). Este repositório
-> mostra o resultado e o raciocínio do projeto; **o código-fonte não é
-> público.**
+> mostra o resultado e o raciocínio do projeto; **o código-fonte fica em um
+> repositório privado.**
 
 ---
 
@@ -186,6 +186,7 @@ contato é pelo WhatsApp.
 | **Fontes** | Dreaming Outloud nos títulos |
 | **Hospedagem** | Hostinger |
 | **Site** | [psidanielrizzo.com.br](https://psidanielrizzo.com.br/) |
+| **Código** | repositório privado |
 
 ---
 
