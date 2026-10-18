@@ -8,8 +8,8 @@ Projeto para cliente real, do briefing à publicação.
 ![Home do site: título "Psicoterapia que faz diferença" à esquerda e ilustração de uma cabeça com um rabisco embolado à direita](prints/home-01-hero.jpg)
 
 > Daniel Rizzo é psicólogo clínico (CRP 05/73924) no Rio de Janeiro e atende
-> por psicoterapia online, com TCC e Terapias Contextuais. O site está no ar em
-> [psidanielrizzo.com.br](https://psidanielrizzo.com.br/). Este repositório
+> por psicoterapia online, com TCC e Terapias Contextuais. A versão para consulta
+> está no [portfólio da DevCraft](https://portifolio.devcraft.dev.br/psicologia/). Este repositório
 > mostra o resultado e o raciocínio do projeto; **o código-fonte fica em um
 > repositório privado.**
 
@@ -185,7 +185,7 @@ contato é pelo WhatsApp.
 | **Conteúdo** | WordPress (blog e páginas) |
 | **Fontes** | Dreaming Outloud nos títulos |
 | **Hospedagem** | Hostinger |
-| **Site** | [psidanielrizzo.com.br](https://psidanielrizzo.com.br/) |
+| **Site** | [portifolio.devcraft.dev.br/psicologia](https://portifolio.devcraft.dev.br/psicologia/) |
 | **Código** | repositório privado |
 
 ---
